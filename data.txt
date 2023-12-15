@@ -1,2 +1,2 @@
 Test case created
-bug report
+bug report not ready
